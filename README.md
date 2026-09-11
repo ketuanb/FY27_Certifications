@@ -5,7 +5,7 @@ Welcome to my certification tracking portal. This site outlines my continuous le
 ---
 
 ## 🎯 Certification Pathway Overview
-![Cloud and AI Certification Roadmap](FY27 Certification Roadmap.jpeg)
+![FY27 Certification Roadmap](FY27%20Certification%20Roadmap.jpeg)
 
 ## 1. GitHub Administration (GH-100)
 **Role Focus:** Enterprise identity, security posture, repository governance, and organization administration.  
