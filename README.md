@@ -11,6 +11,7 @@ Welcome to my certification tracking portal. This site outlines my continuous le
 **Role Focus:** Enterprise identity, security posture, repository governance, and organization administration.  
 **Estimated Prep Time:** ~32 Hours (4 Weeks)  
 **Exam Format:** 60 Multiple-Choice Questions | 100 Minutes | Pearson VUE  
+[GitHub Administration Prep](GitHubAdmin.md)
 
 ### Core Domains & Modules
 * **User Identities & Authentication:** Enterprise Managed Users (EMUs), SAML SSO configuration, SCIM provisioning sync, and 2FA policy enforcement.
