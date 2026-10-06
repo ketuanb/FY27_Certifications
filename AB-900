@@ -1,0 +1,358 @@
+# AB-900: Microsoft 365 Copilot and Agent Administration Fundamentals
+
+## Certification Information
+
+| Item | Details |
+|--------|--------|
+| Certification | Microsoft Certified: Copilot and Agent Administration Fundamentals |
+| Exam | AB-900 |
+| Level | Fundamentals |
+| Recommended Experience | Basic understanding of Microsoft 365, Copilot, Entra, Teams, SharePoint, Purview |
+| Exam Length | ~45-60 minutes |
+| Questions | ~40-60 |
+| Passing Score | 700 |
+| Exam Skills Outline | Microsoft Learn |
+
+---
+
+# Why I'm Taking This Certification
+
+### Goals
+
+- Learn Microsoft 365 Copilot administration fundamentals
+- Understand Microsoft 365 architecture and core services
+- Learn Purview governance and security concepts
+- Understand Copilot deployment and licensing requirements
+- Gain foundational knowledge of Microsoft Agents
+- Support customers adopting Microsoft 365 Copilot
+
+---
+
+# Official Microsoft Resources
+
+## Certification Page
+
+- Microsoft Learn Certification Page
+  - https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/
+
+## Official Study Guide
+
+- AB-900 Study Guide
+  - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-900
+
+## Exam Sandbox
+
+- Test Exam Experience
+  - https://learn.microsoft.com/en-us/certifications/exam-sandbox/
+
+---
+
+# Exam Skills Measured
+
+## Domain 1 – Microsoft 365 Core Services (30–35%)
+
+### Topics
+
+- Microsoft 365 Architecture
+- Exchange Online
+- SharePoint Online
+- OneDrive
+- Microsoft Teams
+- Entra ID
+- Users and Groups
+- Licensing
+
+### Learn Modules
+
+- Microsoft 365 Fundamentals
+- Teams Fundamentals
+- SharePoint Fundamentals
+- Entra Fundamentals
+
+---
+
+## Domain 2 – Data Protection and Governance (35–40%)
+
+### Topics
+
+- Microsoft Purview
+- Sensitivity Labels
+- Data Loss Prevention (DLP)
+- Retention Policies
+- eDiscovery
+- Insider Risk
+- Communication Compliance
+- DSPM for AI
+- Compliance Manager
+
+### Focus Areas
+
+This is the largest exam domain and likely the most important area to study thoroughly.
+
+---
+
+## Domain 3 – Copilot and Agent Administration (25–30%)
+
+### Topics
+
+- Microsoft 365 Copilot
+- Copilot Chat
+- Copilot Licensing
+- Grounding via Microsoft Graph
+- Agent Lifecycle
+- Copilot Studio
+- Security Controls
+- Access Management
+- Oversharing Protection
+
+### Focus Areas
+
+This is the newest content and where many candidates spend the majority of preparation effort.
+
+---
+
+# Recommended Video Training
+
+## Microsoft Learn Videos
+
+Search:
+
+- AB-900 Exam Prep
+- Copilot and Agent Administration Fundamentals
+
+---
+
+## YouTube
+
+### AB-900 Study Cram
+
+Recommended as final review before testing.
+
+Search:
+
+- AB-900 Study Cram
+- Microsoft Copilot and Agent Administration Fundamentals Study Cram
+
+---
+
+## Timothy Warner Course
+
+GitHub Repository:
+
+https://github.com/timothywarner-org/ab900
+
+Topics include:
+
+- Microsoft 365 Core Services
+- Purview
+- Copilot Administration
+- Agent Administration
+- Practice Questions
+- Study Resources
+
+---
+
+## O'Reilly Learning
+
+Instructor:
+
+- Timothy Warner
+
+Course:
+
+- AB-900 Exam Prep
+
+---
+
+# Internal Microsoft Resources
+
+## Technical Mastery Resources
+
+Review:
+
+- AB-900 MCAPS_AUG26.pdf
+- Microsoft AB-900 Exam Training Plan.docx
+- Microsoft AB-900 Practice Exam w Answers.docx
+
+### Notes
+
+These resources were shared through Technical Mastery and Exam Prep channels and contain excellent exam-relevant material.
+
+---
+
+# Hands-On Learning
+
+## Microsoft 365 Admin Center
+
+Practice:
+
+- User Management
+- Group Creation
+- License Assignment
+
+### Portal
+
+https://admin.microsoft.com
+
+---
+
+## Microsoft Entra
+
+Practice:
+
+- Users
+- Groups
+- Conditional Access
+- SSO Concepts
+
+### Portal
+
+https://entra.microsoft.com
+
+---
+
+## Microsoft Purview
+
+Practice:
+
+- Sensitivity Labels
+- DLP Policies
+- Retention Policies
+
+### Portal
+
+https://purview.microsoft.com
+
+---
+
+## Microsoft Copilot
+
+Practice:
+
+- Copilot Chat
+- Teams Copilot
+- Outlook Copilot
+- Word Copilot
+
+---
+
+# Practice Exams
+
+## Internal Practice Exam
+
+- Microsoft AB-900 Practice Exam w Answers.docx
+
+### Goal
+
+Target:
+
+- 85%+ before scheduling exam
+
+---
+
+## Practice Question Strategy
+
+### Round 1
+
+- Complete without notes
+
+### Round 2
+
+- Review mistakes
+- Document weak areas
+
+### Round 3
+
+- Retake after focused study
+
+---
+
+# Study Schedule
+
+## Week 1
+
+### Core Microsoft 365 Services
+
+- Teams
+- SharePoint
+- Exchange
+- OneDrive
+- Entra ID
+
+Daily Goal:
+
+- 60–90 minutes
+
+---
+
+## Week 2
+
+### Security and Governance
+
+- Purview
+- DLP
+- Sensitivity Labels
+- eDiscovery
+- Compliance
+
+Daily Goal:
+
+- 60–90 minutes
+
+---
+
+## Week 3
+
+### Copilot and Agent Administration
+
+- Copilot Architecture
+- Copilot Licensing
+- Agent Concepts
+- Copilot Studio
+- Practice Exams
+
+Daily Goal:
+
+- 60–90 minutes
+
+---
+
+# Final Exam Readiness Checklist
+
+## Knowledge
+
+- [ ] Understand Microsoft 365 Core Services
+- [ ] Understand Entra Fundamentals
+- [ ] Understand Purview Governance
+- [ ] Understand DLP
+- [ ] Understand Sensitivity Labels
+- [ ] Understand Copilot Licensing
+- [ ] Understand Agent Administration
+
+## Practice
+
+- [ ] Complete Microsoft Learn Path
+- [ ] Complete Internal Training Plan
+- [ ] Watch Study Cram Video
+- [ ] Score 85%+ on Practice Exams
+
+## Exam
+
+- [ ] Schedule Exam
+- [ ] Complete Exam Sandbox
+- [ ] Pass AB-900
+
+---
+
+# Notes
+
+## Key Takeaway
+
+For most Azure-focused CSAs, the largest learning gap is generally:
+
+1. Microsoft Purview
+2. Microsoft 365 Licensing
+3. Copilot Administration
+4. Agent Management
+
+Focus heavily on those topics and use practice exams to validate readiness before scheduling the exam.
