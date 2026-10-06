@@ -25,7 +25,9 @@ Welcome to my certification tracking portal. This site outlines my continuous le
 
 ## 2. Copilot and Agent Administration Fundamentals (AB-900)
 **Role Focus:** Enterprise AI assistant governance, agent setup, data privacy, and organizational adoption.  
-**Estimated Prep Time:** ~15-20 Hours (2 Weeks)  
+**Estimated Prep Time:** ~15-20 Hours (2 Weeks)
+
+[Copilot and Agent Administration Fundamentals](AB-900.md)
 
 ### Core Domains & Modules
 * **Copilot Deployment & Licensing:** Seat management, enterprise assignment policies, and IDE extension rollouts.
