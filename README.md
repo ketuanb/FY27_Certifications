@@ -44,6 +44,7 @@ Welcome to my certification tracking portal. This site outlines my continuous le
 * **Azure AI Services Integration:** Consuming Azure OpenAI Service, AI Search, Document Intelligence, and Speech/Vision APIs.
 * **Agentic Workflows & Orchestration:** Building multi-agent systems, function calling, tool integration, and prompt engineering patterns.
 * **Enterprise AI Infrastructure:** Vector indexing, Retrieval-Augmented Generation (RAG) architecture, content safety filtering, and RBAC security for AI models.
+  [AI-200: Developing AI Cloud Solutions on Azure](AI-200.md)
 
 ---
 
